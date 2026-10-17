@@ -1,5 +1,5 @@
 # Netflix-content-distribution
-mini project
+Mini project
 
 # Project Description
 
