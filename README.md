@@ -20,9 +20,12 @@ https://www.kaggle.com/datasets/lovishbansal123/netflix-dataset
 -Attributes:12 features (`show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`, `release_year`, `rating`, `duration`, `listed_in`, `description`)
 
 Data Pre-Processing in Excel
+
 Handling missing values
 Standardizing formats
+
 Categorized each audience segment using the VLOOKUP function
+
 Calculated columns created for 
 
 •	Added year(dim_date):	extracted from the date using YEAR date function
