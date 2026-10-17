@@ -6,6 +6,7 @@ Project Overview
 This project analyzes Netflix's global collection of movies and TV shows to understand what content is on the platform, who it is made for, and where it comes from. The raw data was first cleaned, organized, and prepared in Microsoft Excel. Then, it was imported into Power BI to build an interactive dashboard with charts, filters, and cards that clearly show key trends and patterns.
 
 Project Objectives
+
 -Perform comprehensive data pre-processing
 
 -handling missing values
