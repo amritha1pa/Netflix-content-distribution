@@ -7,10 +7,15 @@ This project analyzes Netflix's global collection of movies and TV shows to unde
 
 Project Objectives
 - Perform comprehensive data pre-processing
+- 
 - handling missing values
+- 
 - standardizing attributes
+- 
 - eliminating inconsistencies within Excel.
+- 
 - Establish a dimensional data model (Star Schema) separating facts and dimensions to optimize reporting performance.
+- 
 - Build an interactive, executive-ready Power BI dashboard featuring dynamic KPI cards, drill-downs, cross-filtering, and visualizations.
   
    
