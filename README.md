@@ -1,11 +1,11 @@
 # Netflix-content-distribution
 mini project
 
-Project Overview
+# Project Overview
 
 This project analyzes Netflix's global collection of movies and TV shows to understand what content is on the platform, who it is made for, and where it comes from. The raw data was first cleaned, organized, and prepared in Microsoft Excel. Then, it was imported into Power BI to build an interactive dashboard with charts, filters, and cards that clearly show key trends and patterns.
 
-Project Objectives
+# Project Objectives
 
 -Perform comprehensive data pre-processing
 
@@ -20,7 +20,7 @@ Project Objectives
 -Build an interactive, executive-ready Power BI dashboard featuring dynamic KPI cards, drill-downs, cross-filtering, and visualizations.
   
    
-Dataset Description
+# Dataset Description
 - Source: [Netflix Movies and TV Shows Dataset (Kaggle)]
   
 https://www.kaggle.com/datasets/lovishbansal123/netflix-dataset
@@ -31,7 +31,7 @@ https://www.kaggle.com/datasets/lovishbansal123/netflix-dataset
 `cast`, `country`, `date_added`,
 `release_year`, `rating`, `duration`, `listed_in`, `description`)
 
-Data Pre-Processing in Excel
+# Data Pre-Processing in Excel
 
 -Handling missing values
 
@@ -45,7 +45,7 @@ Data Pre-Processing in Excel
 
 -Added month(dim_date):	extracted using date function to evaluate monthly patterns.
 
-Key Insights
+# Key Insights
 
 •	Movies vs. TV Shows: Most of the content consists of movies (about 70%), while TV shows make up around 30%.
 
