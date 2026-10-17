@@ -7,15 +7,15 @@ This project analyzes Netflix's global collection of movies and TV shows to unde
 
 Project Objectives
 - Perform comprehensive data pre-processing
-- 
+  
 - handling missing values
-- 
+  
 - standardizing attributes
-- 
+  
 - eliminating inconsistencies within Excel.
-- 
+  
 - Establish a dimensional data model (Star Schema) separating facts and dimensions to optimize reporting performance.
-- 
+  
 - Build an interactive, executive-ready Power BI dashboard featuring dynamic KPI cards, drill-downs, cross-filtering, and visualizations.
   
    
@@ -26,7 +26,8 @@ https://www.kaggle.com/datasets/lovishbansal123/netflix-dataset
 
 -Total Records:8,807 titles
 
--Attributes:12 features (`show_id`, `type`, `title`, `director`, `cast`, `country`, `date_added`,
+-Attributes:12 features (`show_id`, `type`, `title`, `director`,
+`cast`, `country`, `date_added`,
 `release_year`, `rating`, `duration`, `listed_in`, `description`)
 
 Data Pre-Processing in Excel
