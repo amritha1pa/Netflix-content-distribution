@@ -29,6 +29,7 @@ Calculated columns created for
 •	Added month(dim_date):	extracted using date function to evaluate monthly patterns.
 
 Key Insights
+
 •	Movies vs. TV Shows: Most of the content consists of movies (about 70%), while TV shows make up around 30%.
 
 •	Audience: Most titles are made for adults and teens (mainly TV-MA and TV-14 ratings).
