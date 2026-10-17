@@ -34,10 +34,13 @@ Data Pre-Processing in Excel
 
 Handling missing values
 Standardizing formats
+
 Categorized each audience segment using the VLOOKUP function
+
 Calculated columns created for 
 
 •	Added year(dim_date):	extracted from the date using YEAR date function
+
 •	Added month(dim_date):	extracted using date function to evaluate monthly patterns.
 
 Key Insights
